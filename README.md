@@ -106,7 +106,7 @@ This is a simple QR code card component designed to improve front-end skills by 
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/qr-code-card.git
+   git clone https://github.com/KPorus/qr-code.git
    ```
 2. Navigate to the project folder:
    ```bash
